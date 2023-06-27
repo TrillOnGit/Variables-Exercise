@@ -11,7 +11,7 @@
             double preciseWeight = 41.8234567890123;
             decimal yearsInVet = 0.000762M;
 
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine($"My cat's name is {catName}, He is {catWeightIbs} pounds, or more precisely he is {preciseWeight} pounds.");
             
         }
     }

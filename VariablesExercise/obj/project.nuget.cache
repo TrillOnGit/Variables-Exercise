@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Uv5Z7V0LDXClDvlLErzKEJ6Xt9IWezMRHa+8cYZo9dL2d6aDxZBYBontyUt8DJWc3mhK/XuzlywiyQhI+3x5Iw==",
+  "dgSpecHash": "LoBEwV0yk76SNqVuT0DSqIYpB4mVEbGNtW69JVxWsP1yIBzP+rgQh2jRRrDOEGJF/4M87jld2TtXyWPimfxfig==",
   "success": true,
   "projectFilePath": "/home/trillion/Repos/Variables-Exercise/VariablesExercise/VariablesExercise.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/trillion/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.18/microsoft.netcore.app.host.linux-x64.6.0.18.nupkg.sha512"
+  ],
   "logs": []
 }
